@@ -1,0 +1,14 @@
+/* основной цвет текста  #212121 */
+/* вторичный цвет текста  #757575 */
+/* белый в герое #FFFFFF */
+/* акцент #2196F3 */
+/* цвета logo:черный  #000000 ,белый #FFFFFF ,синий #2196F3 */
+body {
+  font-family: "Roboto", sans-serif;
+}
+.list {
+  list-style: none;
+}
+.link {
+  text-decoration: none;
+}
