@@ -185,8 +185,8 @@ body {
   color: var(--accent-color);
 }
 
-/* -----filters----- */
-.filters-btn {
+/* -----projects----- */
+.projects-filters-btn {
   font-family: inherit;
   font-weight: 500;
   font-size: 16px;
@@ -197,19 +197,18 @@ body {
   cursor: pointer;
   border:none;
 }
-.filters-btn:hover,
-.filters-btn:focus {
+.projects-filters-btn:hover,
+.projects-filters-btn:focus {
   color: #FFFFFF;
   background-color: #2196F3;
 }
-/* -----projects----- */
-.projects-title {
+.projects-works-title {
   font-size: 18px;
   line-height: 2.00;
   letter-spacing: 0.06em;
   color: var(--title-color);
 }
-.projects-text {
+.projects-works-text {
   font-size: 16px;
   line-height: 1.88;
   letter-spacing: 0.03em;
